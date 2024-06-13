@@ -3,7 +3,7 @@ Supplementary materials for the journal article Structural Factor Analysis of Le
 
 This repository contains additional materials for the journal article:
 
-Nasseri, M., & McCarthy, P. (in press). Structural Factor Analysis of Lexical Complexity Constructs and Measures: A Quantitative Measure-testing Process on Specialised Academic Texts. Journal of Quantitative Linguistics, 2023.
+Nasseri, M., & McCarthy, P. (2023). Structural Factor Analysis of Lexical Complexity Constructs and Measures: A Quantitative Measure-testing Process on Specialised Academic Texts. Journal of Quantitative Linguistics, 2023. [Link](https://www.researchgate.net/publication/375187949_Structural_Factor_Analysis_of_Lexical_Complexity_Constructs_and_Measures_A_Quantitative_Measure-Testing_Process_on_Specialised_Academic_Texts)
 
 Repository sections:
 
