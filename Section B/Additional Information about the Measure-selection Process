@@ -6,3 +6,14 @@ A few other omitted measures have a very similar selected measure in the final s
 (i.e., to avoid too many very similar measures in the model). A few measures have also been omitted 
 simply because at the time of final analysis of this study, the authors did not find a suitable NLP 
 analyser to compute them and/or in a way that matches the preprocessing criteria for the rest of the selected measures. 
+
+Among the measures that were omitted in the final selection of this study are Mendelsohn’s LV 
+(Mendelsohn, 1981: LV = V lex × 100 / N), Arnaud’s LV(Arnaud, 1984: LV = V lex / N ), NDW or 
+Number of Different Words (Miller, 1996) and NDW-50 (the number of types in the first 50 words 
+of a text; two variations of these simple measures have already been included in the final selection), 
+SVV1 or Squared VV1 (Chaudron and Parker, 1990: T 2verb / N verb; in the pilot study the CVV1 index 
+in Table 1 outperformed the SVV1 index),  ADVV or the Adverb Variation (McClure, 1991: Tadv / Nlex  ) 
+and MODV or the Modifier Variation (McClure, 1991: (T adj + T adv) / N lex ) measures were also 
+excluded from the analysis as none have been linked to linguistic proficiency in advanced academic texts, 
+for example, The adverb variation measure also did not show any between-proficiency differences 
+in Paquot’s (2019) analysis of academic research papers.
