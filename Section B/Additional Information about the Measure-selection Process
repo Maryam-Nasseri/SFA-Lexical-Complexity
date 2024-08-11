@@ -1,1 +1,8 @@
-Some of the lexical measures were deemed unsuitable for the final selection of the measures in this study either because they had not been reported in the linguistics literature to be indicators/predictors of advanced academic texts (e.g., from among the count-based indices), or because they gauge lexical complexity for non-SLA purposes (e.g., language disorders, child language acquisition, dementia studies, etc). A few other omitted measures have a very similar selected measure in the final set of measures (i.e., to avoid too many very similar measures in the model). A few measures have also been omitted simply because at the time of final analysis of this study, the authors did not find a suitable NLP analyser to compute them and/or in a way that matches the preprocessing criteria for the rest of the selected measures. 
+Some of the lexical measures were deemed unsuitable for the final selection of the measures in this study 
+either because they had not been reported in the linguistics literature to be indicators/predictors of 
+advanced academic texts (e.g., from among the count-based indices), or because they gauge lexical complexity 
+for non-SLA purposes (e.g., language disorders, child language acquisition, dementia studies, etc). 
+A few other omitted measures have a very similar selected measure in the final set of measures 
+(i.e., to avoid too many very similar measures in the model). A few measures have also been omitted 
+simply because at the time of final analysis of this study, the authors did not find a suitable NLP 
+analyser to compute them and/or in a way that matches the preprocessing criteria for the rest of the selected measures. 
