@@ -17,3 +17,9 @@ and MODV or the Modifier Variation (McClure, 1991: (T adj + T adv) / N lex ) mea
 excluded from the analysis as none have been linked to linguistic proficiency in advanced academic texts, 
 for example, The adverb variation measure also did not show any between-proficiency differences 
 in Paquot’s (2019) analysis of academic research papers.
+
+The simple count of types as a measure is also excluded from the final set of measures. 
+Unlike other indices in this study which take the token counts as the basis for the ratio 
+or word segments, the simple number of types does not have a basis and therefore, comparing 
+it across rhetorical sections with varying text lengths (or token counts) and even including 
+it in statistical modelling alongside other measures would have been problematic.
