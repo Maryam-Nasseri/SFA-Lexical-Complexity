@@ -22,3 +22,6 @@ Nasseri, M., & McCarthy, P. (2023). Structural Factor Analysis of Lexical Comple
 4. Diagram of the structure of lexical constructs and measures with factor loadings for the lexical model B
 5. Diagram of the structure of lexical constructs and measures with factor loadings for the lexical model B2
 
+## Related Terms and Concepts to This Research:
+Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA), Structural Factor Analysis (SFA)
+
