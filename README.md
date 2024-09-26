@@ -1,7 +1,7 @@
 # SFA-Lexical-Complexity
 Supplementary materials for the journal article Structural Factor Analysis of Lexical Complexity Constructs and Measures:
 
-Nasseri, M., & McCarthy, P. (2023). Structural Factor Analysis of Lexical Complexity Constructs and Measures: A Quantitative Measure-testing Process on Specialised Academic Texts. Journal of Quantitative Linguistics, 2023. [Link](https://www.researchgate.net/publication/375187949_Structural_Factor_Analysis_of_Lexical_Complexity_Constructs_and_Measures_A_Quantitative_Measure-Testing_Process_on_Specialised_Academic_Texts)
+Nasseri, M., & McCarthy, P. (2023). Structural Factor Analysis of Lexical Complexity Constructs and Measures: A Quantitative Measure-testing Process on Specialised Academic Texts. Journal of Quantitative Linguistics, 2023. [Link](https://www.researchgate.net/publication/375187949_Structural_Factor_Analysis_of_Lexical_Complexity_Constructs_and_Measures_A_Quantitative_Measure-Testing_Process_on_Specialised_Academic_Texts)  (If you need access to this research, please send a "full text request" via Research Gate and I'll send it to you :)
 
 ![Screenshot of the abstract of the journal article Structural Factor Analysis of Lexical Complexity Constructs and Measures.](https://github.com/Maryam-Nasseri/SFA-Lexical-Complexity/blob/main/SFA-paper-abstract.png)
 
