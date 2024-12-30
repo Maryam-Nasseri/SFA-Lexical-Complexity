@@ -1,0 +1,10 @@
+# R libraries for Exploratory Factor Analysis (EFA):
+## EFAtools
+## EFA.dimensions (https://cran.r-project.org/web/packages/EFA.dimensions/index.html)
+## lavaan
+## sem
+## GPArotation
+## psych
+
+
+## R libraries for Confirmatory Factor Analysis (CFA)
