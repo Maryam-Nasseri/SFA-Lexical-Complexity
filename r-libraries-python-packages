@@ -7,4 +7,7 @@
 ## psych
 
 
-## R libraries for Confirmatory Factor Analysis (CFA)
+# R libraries for Confirmatory Factor Analysis (CFA)
+## lavaan
+## sem
+## semPlot
