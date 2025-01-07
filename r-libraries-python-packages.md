@@ -16,3 +16,5 @@
 # Python Packages for Factor Analysis
 1. matplotlib
 2. factor-analyzer (https://pypi.org/project/factor-analyzer/)
+3. Sklearn (Scikit-learn)  (https://www.geo.fu-berlin.de/en/v/soga-py/Advanced-statistics/Multivariate-Approaches/Factor-Analysis/A-Simple-Example-of-Factor-Analysis-in-Python/index.html)
+4. statsmodels
