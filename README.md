@@ -23,5 +23,10 @@ Nasseri, M., & McCarthy, P. (2023). Structural Factor Analysis of Lexical Comple
 5. Diagram of the structure of lexical constructs and measures with factor loadings for the lexical model B2
 
 ## Related Terms and Concepts to This Research:
-Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA), Structural Factor Analysis (SFA)
+
+Structural Factor Analysis (SFA):
+IN SFA a series of factor analyses are used to verify the structure of constructs and how well the variables represent each construct based on the proposed structures and to further explore the datasets for any additional construct/latent factor that can be revealed. This is usually done based on McArdle's (2011) proposed scheme of first conducting a Confirmatory Factor Analysis (CFA) followed by an Exploratory Factor Analysis (EFA).
+
+Confirmatory Factor Analysis (CFA):
+Exploratory Factor Analysis (EFA):
 
