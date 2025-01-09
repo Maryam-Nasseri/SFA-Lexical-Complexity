@@ -24,9 +24,11 @@ Nasseri, M., & McCarthy, P. (2023). Structural Factor Analysis of Lexical Comple
 
 ## Related Terms and Concepts to This Research:
 
-Structural Factor Analysis (SFA):
+### Structural Factor Analysis (SFA):
 IN SFA a series of factor analyses are used to verify the structure of constructs and how well the variables represent each construct based on the proposed structures and to further explore the datasets for any additional construct/latent factor that can be revealed. This is usually done based on McArdle's (2011) proposed scheme of first conducting a Confirmatory Factor Analysis (CFA) followed by an Exploratory Factor Analysis (EFA).
 
-Confirmatory Factor Analysis (CFA):
+### Confirmatory Factor Analysis (CFA):
+Confirmatory Factor Analysis (CFA) is a statistical method used to verify the factor structure of observed variables in order to test whether there exists a relationship between observed variables and their underlying latent constructs (i.e., the overall conceptual understanding of a phenomenon with verifiable/quantifiable variables). 
+
 Exploratory Factor Analysis (EFA):
 
