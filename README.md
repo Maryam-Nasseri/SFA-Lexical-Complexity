@@ -35,3 +35,6 @@ EFA is a statistical method used to explore a large dataset (observed data) and 
 
 ### Lexical Constructs:
 The conceptual representation of lexis (words, collocations, formulaic expressions, etc) that can be measured via objective measures or indices, also called lexical measures.
+
+### Lexical Complexity Measures:
+In this research, lexical complexity measures are quantifiable indices that compute one of the three constructs of lexical density, diversity, and sophistication. Each of these constructs is usually represented by a variety of different measures/indices in the related literature, but usually, some of these measures are more suitable for specific areas than others; e.g., some lexical measures can better distinguish between higher proficiency levels, while others may be more suitable for child language acquisition and development, or the diagnosis of the onset of dementia, etc. Please see the literature review part for more details.
